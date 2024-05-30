@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on Time series forecasting of stock prices, their trend, seasonality and variable technical and fundamental indicators.<br> I’m looking to collaborate on projects revolving around forecasting, prediction and classification<br>Ask me about Python, Machine Learning, Deep Learning, Natural Language Processing and Computer Vision.<br>How to reach me adan.nazir20@gmail.com
+ I’m currently working on Fintech (Time series forecasting of stock prices), their trend, seasonality, and variable technical and fundamental indicators.<br> I’m looking to collaborate on projects revolving around forecasting, prediction and classification<br>Ask me about Python, Machine Learning, Deep Learning, Natural Language Processing and Computer Vision.<br>How to reach me adan.nazir20@gmail.com
 
 
 ## 🌐 Socials:
