@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on Fintech (Time series forecasting of stock prices), their trend, seasonality, and variable technical and fundamental indicators.<br> I’m looking to collaborate on projects revolving around forecasting, prediction and classification<br>Ask me about Python, Machine Learning, Deep Learning, Natural Language Processing and Computer Vision.<br>How to reach me adan.nazir20@gmail.com
+Worked on real-world time series forecasting using NYC stock exchange data, with a focus on optimizing the hardware complexity of state-of-the-art ML and DL models. Leveraged parallel and distributed computing techniques to significantly enhance the efficiency and scalability of these models, ensuring their practical deployment for robust stock market price prediction. Successfully reduced the total training and deployment time by 4x, demonstrating substantial improvements in performance and computational resource utilization.<br> I’m looking to collaborate on projects revolving around forecasting, prediction and classification<br>Ask me about Python, Machine Learning, Deep Learning, Natural Language Processing and Computer Vision.<br>How to reach me adan.nazir20@gmail.com
 
 
 
